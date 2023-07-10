@@ -161,3 +161,12 @@ cython_debug/
 
 # Datafiles
 /edsa-movie-recommendation-predict.zip
+/genome_scores.csv
+/genome_tags.csv
+/imdb_data.csv
+/links.csv
+/movies.csv
+/sample_submission.csv
+/tags.csv
+/test.csv
+/train.csv
